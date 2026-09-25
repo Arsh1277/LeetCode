@@ -1,0 +1,28 @@
+class RecentCounter {
+    
+    // Queue declare ki timestamps store karne ke liye
+    private Queue<Integer> queue;
+
+    public RecentCounter() {
+        queue = new LinkedList<>();
+    }
+    
+    public int ping(int t) {
+        // Naye time 't' ko queue me daal do
+        queue.offer(t);
+        
+        // Jo requests 3000ms se zyada purani ho chuki hain, unhe hata do
+        while (queue.peek() < t - 3000) {
+            queue.poll();
+        }
+        
+        // Queue ka size hi batayega ki recent range me kitni calls hain
+        return queue.size();
+    }
+}
+
+/**
+ * Your RecentCounter object will be instantiated and called as such:
+ * RecentCounter obj = new RecentCounter();
+ * int param_1 = obj.ping(t);
+ */
