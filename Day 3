@@ -1,0 +1,41 @@
+class Solution {
+    public String removeDuplicates(String s) {
+        Queue<Character> queue = new LinkedList<>();        
+        // Add all characters to Queue        
+        for (char ch : s.toCharArray()) {            
+            queue.offer(ch);        
+        }        
+        boolean removed = true;        
+        // Repeat while a duplicate pair is removed        
+        while (removed) {            
+            removed = false;          
+
+            Queue<Character> temp = new LinkedList<>();            
+            while (!queue.isEmpty()) {                
+                char first = queue.poll();                
+                
+                // Check the next character                
+                if (!queue.isEmpty() && first == queue.peek()) {                    
+                    
+                    // Remove both equal characters                    
+                    queue.poll();                    
+                    removed = true;      
+
+                } else {                    
+                    // Keep the character                    
+                    temp.offer(first);                
+                }            
+            }            queue = temp;        
+        }        
+        // Build final string        
+        StringBuilder result = new StringBuilder();        
+        
+        while (!queue.isEmpty()) {            
+        
+            result.append(queue.poll());        
+        
+        }        
+        
+        return result.toString();
+    }
+}
