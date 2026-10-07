@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Arsh1277/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0933-number-of-recent-calls](https://github.com/Arsh1277/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Arsh1277/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0933-number-of-recent-calls](https://github.com/Arsh1277/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Tree
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Arsh1277/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Arsh1277/LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
