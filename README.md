@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Arsh1277/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0832-flipping-an-image](https://github.com/Arsh1277/LeetCode/tree/master/0832-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Arsh1277/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Data Stream
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Arsh1277/LeetCode/tree/master/0009-palindrome-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Arsh1277/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
 | ------- |
