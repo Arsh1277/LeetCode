@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Arsh1277/LeetCode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Arsh1277/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Arsh1277/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0658-find-k-closest-elements](https://github.com/Arsh1277/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0832-flipping-an-image](https://github.com/Arsh1277/LeetCode/tree/master/0832-flipping-an-image) |
 ## Stack
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Arsh1277/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0658-find-k-closest-elements](https://github.com/Arsh1277/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arsh1277/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arsh1277/LeetCode/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/Arsh1277/LeetCode/tree/master/0054-spiral-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Arsh1277/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0832-flipping-an-image](https://github.com/Arsh1277/LeetCode/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
@@ -132,4 +135,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Arsh1277/LeetCode/tree/master/0258-add-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Arsh1277/LeetCode/tree/master/0658-find-k-closest-elements) |
+## Sorting
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Arsh1277/LeetCode/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Arsh1277/LeetCode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
