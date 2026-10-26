@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Arsh1277/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Arsh1277/LeetCode/tree/master/0412-fizz-buzz) |
 ## Counting
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Arsh1277/LeetCode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Arsh1277/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Arsh1277/LeetCode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Arsh1277/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arsh1277/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Arsh1277/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Arsh1277/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Arsh1277/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Arsh1277/LeetCode/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/Arsh1277/LeetCode/tree/master/0832-flipping-an-image) |
 ## Number Theory
 |  |
