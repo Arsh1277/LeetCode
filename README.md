@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Arsh1277/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Arsh1277/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Arsh1277/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/Arsh1277/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Arsh1277/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Arsh1277/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Arsh1277/LeetCode/tree/master/0231-power-of-two) |
 | [0832-flipping-an-image](https://github.com/Arsh1277/LeetCode/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Arsh1277/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Data Stream
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Arsh1277/LeetCode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Arsh1277/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Arsh1277/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Arsh1277/LeetCode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Arsh1277/LeetCode/tree/master/0728-self-dividing-numbers) |
