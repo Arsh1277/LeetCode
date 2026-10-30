@@ -131,11 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Arsh1277/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0832-flipping-an-image](https://github.com/Arsh1277/LeetCode/tree/master/0832-flipping-an-image) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arsh1277/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1672-richest-customer-wealth](https://github.com/Arsh1277/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Arsh1277/LeetCode/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/Arsh1277/LeetCode/tree/master/0832-flipping-an-image) |
+| [1672-richest-customer-wealth](https://github.com/Arsh1277/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
