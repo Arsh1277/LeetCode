@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Arsh1277/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0658-find-k-closest-elements](https://github.com/Arsh1277/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/Arsh1277/LeetCode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Arsh1277/LeetCode/tree/master/0283-move-zeroes) |
 | [0621-task-scheduler](https://github.com/Arsh1277/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Arsh1277/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/Arsh1277/LeetCode/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/Arsh1277/LeetCode/tree/master/0832-flipping-an-image) |
 | [1051-height-checker](https://github.com/Arsh1277/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arsh1277/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
