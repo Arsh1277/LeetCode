@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Arsh1277/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/Arsh1277/LeetCode/tree/master/0278-first-bad-version) |
 | [0658-find-k-closest-elements](https://github.com/Arsh1277/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Arsh1277/LeetCode/tree/master/0704-binary-search) |
 ## Bit Manipulation
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arsh1277/LeetCode/tree/master/0020-valid-parentheses) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Arsh1277/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
