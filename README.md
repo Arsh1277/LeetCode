@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Arsh1277/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0832-flipping-an-image](https://github.com/Arsh1277/LeetCode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Arsh1277/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Arsh1277/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Arsh1277/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Arsh1277/LeetCode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Arsh1277/LeetCode/tree/master/0832-flipping-an-image) |
+| [0977-squares-of-a-sorted-array](https://github.com/Arsh1277/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Arsh1277/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arsh1277/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Arsh1277/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Arsh1277/LeetCode/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/Arsh1277/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Arsh1277/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/Arsh1277/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Arsh1277/LeetCode/tree/master/1051-height-checker) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Arsh1277/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Heap (Priority Queue)
