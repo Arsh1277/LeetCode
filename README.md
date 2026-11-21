@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Arsh1277/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0303-range-sum-query-immutable](https://github.com/Arsh1277/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0933-number-of-recent-calls](https://github.com/Arsh1277/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arsh1277/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Arsh1277/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Arsh1277/LeetCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Arsh1277/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0621-task-scheduler](https://github.com/Arsh1277/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Arsh1277/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Arsh1277/LeetCode/tree/master/0704-binary-search) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Arsh1277/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Arsh1277/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
