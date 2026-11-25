@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Arsh1277/LeetCode/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Arsh1277/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Arsh1277/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Arsh1277/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arsh1277/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Arsh1277/LeetCode/tree/master/0621-task-scheduler) |
 ## Floyd's Cycle Finding Algorithm
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arsh1277/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Arsh1277/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Arsh1277/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Arsh1277/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Arsh1277/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/Arsh1277/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Arsh1277/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Arsh1277/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Arsh1277/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Arsh1277/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Arsh1277/LeetCode/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Arsh1277/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Arsh1277/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Arsh1277/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Arsh1277/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Arsh1277/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Arsh1277/LeetCode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Arsh1277/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arsh1277/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arsh1277/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Arsh1277/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Arsh1277/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Arsh1277/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arsh1277/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Arsh1277/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Arsh1277/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -213,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Arsh1277/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Arsh1277/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Arsh1277/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Arsh1277/LeetCode/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/Arsh1277/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Arsh1277/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arsh1277/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
